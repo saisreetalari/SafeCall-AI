@@ -1,0 +1,25 @@
+🚨 Over ₹1,750+ Crores lost to "Digital Arrest" scams in India in 2024 alone. 
+
+Scammers pose as Mumbai Police, CBI, or Customs, terrorizing innocent citizens in colloquial Tenglish & Hindi over phone:
+"Mee Aadhaar card meeda parcel lo MDMA drugs dorikayi... arrest warrant issue ayindi, phone cut cheyoddu!"
+
+Victims panic in isolation and transfer lakhs within minutes. Traditional caller-ID apps like Truecaller only screen numbers—once an unknown call connects, citizens have zero defense.
+
+To solve this national cyber crisis, I engineered 🛡️ SafeCall AI (సేఫ్ కాల్ AI) for The Great Indian AI Internship Challenge by @Gnani.ai! 🇮🇳
+
+⚡ How SafeCall AI protects citizens in real time:
+1️⃣ Dual-Buffer Indic Telephony ASR: Uses Gnani.ai Prisma v3.0 STT to transcribe noisy, code-mixed Tenglish (Telugu + English) and Hinglish phone calls in real time.
+2️⃣ Indic Coercion Heuristics: Evaluates live audio against 4 extortion vectors (police impersonation, narcotics threats, victim isolation, and unauthorized RTGS/UPI demands).
+3️⃣ Native In-Ear Spoken Whisper: The moment the threat crosses 70%, Gnani.ai Timbre v3.0 TTS whispers a calm, authoritative emergency alert directly into the victim's earpiece in native Telugu/Hindi:
+"హెచ్చరిక! ఇది ఫేక్ డిజిటల్ అరెస్ట్ సైబర్ ఫ్రాడ్. పోలీసులు ఎప్పుడూ ఫోన్ కాల్ లో అరెస్ట్ చేయరు. వెంటనే కాల్ కట్ చేసి 1930 కి కాల్ చేయండి."
+4️⃣ Privacy Enclave by Design: Automatically hibernates for saved family contacts and maintains ZERO disk audio persistence (100% ephemeral RAM processing, fully DPDP Act compliant).
+5️⃣ 1-Tap 1930 Cyber Dispatch: Terminates the fraudulent call and logs incident metadata to the National Cyber Crime portal.
+
+Building with Gnani.ai's sovereign Indic speech stack demonstrated the immense power of home-grown Indian AI in solving real cyber emergencies!
+
+📂 Code & 1-Page Pitch: [PASTE YOUR GOOGLE DRIVE OR GITHUB LINK HERE]
+🎥 2-Minute Demo Video: [PASTE YOUR VIDEO LINK HERE]
+
+A huge shoutout to @Gnani.ai for spearheading sovereign voice AI for Bharat! 🚀
+
+#TheGreatIndianAIInternshipChallenge #GnaniAI #SafeCallAI #CyberSecurity #DigitalArrest #TeluguAI #IndicAI #SovereignAI #BuildForBharat #BCADataScience

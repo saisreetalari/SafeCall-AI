@@ -1,0 +1,62 @@
+========================================================================
+ SAFECALL AI (సేఫ్ కాల్ AI) - STEP-BY-STEP SUBMISSION CHEAT SHEET
+ For: The Great Indian AI Internship Challenge (Gnani.ai)
+========================================================================
+
+All your project files are right here in this folder on your Desktop!
+
+------------------------------------------------------------------------
+STEP 1: Open & Save the 1-Page Pitch as PDF
+------------------------------------------------------------------------
+1. Double-click "safecall_pitch.html" to open it in Chrome / Edge / Brave.
+2. Click the top button: "Print / Save as 1-Page PDF" (or press Ctrl + P).
+3. Save it as "SafeCall_AI_Pitch.pdf" inside this folder.
+
+------------------------------------------------------------------------
+STEP 2: Upload to Google Drive (For Form Field 5)
+------------------------------------------------------------------------
+1. Go to Google Drive (drive.google.com).
+2. Right-click and choose "Upload Folder".
+3. Select this folder: "SafeCall_AI_Submission" from your Desktop.
+4. Once uploaded, right-click the folder in Google Drive -> "Share" -> change from "Restricted" to "Anyone with the link can view" -> click "Copy link".
+5. Paste this link into Field 5 of the Microsoft Form!
+
+------------------------------------------------------------------------
+STEP 3: Record Your 2-Minute Demo Video (For Form Field 6)
+------------------------------------------------------------------------
+1. Open PowerShell or Command Prompt, and run:
+     cd OneDrive\Desktop\SafeCall_AI_Submission
+     python app.py
+2. Open your browser and go to:
+     http://localhost:5000
+3. Start recording your screen (using Loom, OBS, or press Win + Alt + R for Windows Game Bar recorder).
+4. Follow the exact spoken script in "video_demo_script.md":
+   - Show the header and say you built SafeCall AI for Gnani.ai challenge.
+   - Click "Digital Arrest (Telugu)" to show the Tenglish transcript, high threat score, and Timbre voice warning.
+   - Click "Digital Arrest (Hindi)" to show Hindi support.
+   - Click "Amma Calling" to show it sleeps for saved family contacts to protect privacy.
+5. Upload the video to Google Drive (or Loom / YouTube unlisted).
+   - Set sharing to "Anyone with the link can view".
+6. Paste the video link into Field 6 of the form!
+
+------------------------------------------------------------------------
+STEP 4: Post on LinkedIn (For Form Field 7 - Bonus Awards!)
+------------------------------------------------------------------------
+1. Open "linkedin_post.txt".
+2. Copy the text, replace [PASTE YOUR GITHUB OR GOOGLE DRIVE LINK HERE] with your Drive link, and [PASTE YOUR VIDEO LINK HERE] with your video link.
+3. Post it on LinkedIn and make sure to tag @Gnani.ai.
+4. Copy the link to your live LinkedIn post and paste it into Field 7 of the form!
+
+------------------------------------------------------------------------
+SUMMARY OF MS FORM FIELDS:
+------------------------------------------------------------------------
+Field 1: Your Full Name
+Field 2: Your Registered Email ID
+Field 3: Teammate Email ID (Put "N/A" if solo)
+Field 4: Your College / Institution Name
+Field 5: Your Google Drive Link (containing code + 1-page pitch PDF)
+Field 6: Your 2-Minute Video Demo Link
+Field 7: Your LinkedIn Post URL (tagging @Gnani.ai)
+
+You are 100% ready to submit! All the best!
+========================================================================
